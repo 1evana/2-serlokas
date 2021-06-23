@@ -1,6 +1,6 @@
 # Procesas
 
-[] pradine failu struktura
+[]pradine failu struktura
 -index.html
 -.gitignore
 [] paviesinti projekta per Github Pages (gausim URL)
