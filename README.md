@@ -20,4 +20,4 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850
 
 ## Authors
 
-[RimantaIeva](https://github.com/1evana)
+[Ieva](https://github.com/1evana)
