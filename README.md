@@ -1,5 +1,6 @@
-# ABOUT
+# 2-serlokas
 
+## About
 
 This is one of the project during JavaScript trainings.
 
