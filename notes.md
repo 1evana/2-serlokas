@@ -1,18 +1,18 @@
 # Procesas
 
-- [ ] Pradinė failų struktūra
+ - [ ] Pradinė failų struktūra
   - index.html
   - .gitignore
-- [ ] Paviešinti projektą per Github Pages (gausim URL)
-- [ ] Sukurti README.md failą
+ - [ ] Paviešinti projektą per Github Pages (gausim URL)
+ - [ ] Sukurti README.md failą
   - jame aprašyti projektą, kam jis skirtas, ką planavau išbandyti, ką planavau parodyti ir pan.
   - įterpti nuorodą į daromą dizainą
   - įterpti nuorodą į savo kodą
-- [ ] Atlikti dizaino analizę
-- [ ] Surašyti HTML
-- [ ] Išsikirpti nuotraukas ir jas panaudoti
+ - [ ] Atlikti dizaino analizę
+ - [ ] Surašyti HTML
+ - [ ] Išsikirpti nuotraukas ir jas panaudoti
   - panaudoti reliatyvų kelią
-- [ ] Aprašyti stilius
+ - [ ] Aprašyti stilius
 
 # Pasiskaitymui
 
