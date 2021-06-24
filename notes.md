@@ -16,5 +16,5 @@
 
 # Pasiskaitymui
 
-Apie Čia naudojama rašymo sintaksę (md - markdown)
+Apie čia naudojama rašymo sintaksę (md - markdown)
 https://guides.github.com/features/mastering-markdown/
