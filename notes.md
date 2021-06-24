@@ -7,9 +7,9 @@
 - [ ] Sukurti README.md failą
   - jame aprašyti projektą, kam jis skirtas, ką planavau išbandyti, ką planavau parodyti ir pan.
   - įterpti nuorodą į daromą dizainą
-  - įterpti nuorodą, kur tas mūsųnkodas gali būti pamatytas
+  - įterpti nuorodą, kur tas mūsų kodas gali būti pamatytas
 - [ ] Atlikti dizaino analizę
-- [ ] SuraŠyti HTML
+- [ ] Surašyti HTML
 - [ ] Išsikirpti nuotraukas ir jas panaudoti
   - panaudoti reliatyvų kelią
 - [ ] Aprašyti stilius
