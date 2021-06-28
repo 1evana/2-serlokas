@@ -9,17 +9,18 @@
 </head>
 
 <body style="background-color: #eaebed;">
-    <img style="margin-top: 140px; margin-left: 25%; margin: right 5%; display: inline-block; width: 20%; float: left;" src="./Serlokas.jpg" alt="Serlokas su pypke menesienoje">
-    <main style="display: inline-block; width: 25%; float: left; margin-top: 200px;">
-        <h1 style="">404</h1>
-        <p style=""></p>Looks like this page is missing. Don't worry though, our best man is on the case.</p>
-        <p style=""></p>Meanwhile, why don't try again by going</p>
-        <a style="" href="#">Back home</a>
+    <img style="margin-top: 140px; margin-left: 25%; margin: right 5%; width: 20%; float: left;" src="./Serlokas.jpg" alt="Serlokas su pypke menesienoje">
+    <main style="width: 25%; float: left; margin-top: 200px; text-align: center;">
+        <h1 style="font-size: 100px; margin: 0;">404</h1>
+        <p style="margin: 0; font-size: 25px;"></p>Looks like this page is missing. Don't worry though, our best man is on the case.</p>
+        <p>Meanwhile, why don't try again by going</p>
+        <a style="text-transform: uppercase; " href="#">Back home</a>
     </main>
 </body>
 </html>
 
 <!--
+VISOS TEKSTINĖS (IR NE KITOKIOS) STILIAUS SAVYBĖS GALI BUTI PAVELDĖTOS IŠ TĖVŲ Į VAIKUS; (text-align, text-decoration, text-transform, šriftai, spalva...)
 
 Jei neturime konkretaus nuotraukos failo, kurį ketiname naudoti, tai src priskiriame # reikšmę
 
@@ -33,18 +34,21 @@ px ir % (kol kas)
 
 Elementų tarpusavio stumdymas:
 margin: 40px;                  // visomis kryptimis (aplinkui)
-margin-top: 40px;            (atsistūmimasnuo aplinkinių elementų tik nuo savo viršaus)
-margin-right: 40px;          (atsistūmimasnuo aplinkinių elementų tik nuo savo dešinės)
-margin-bottom: 40px;         (atsistūmimasnuo aplinkinių elementų tik nuo savo apačios)
-margin-left: 40 px;          (atsistūmimasnuo aplinkinių elementų tik nuo savo kairės)
+margin-top: 40px;           (atsistūmimasnuo aplinkinių elementų tik nuo savo viršaus)
+margin-right: 40px;         (atsistūmimasnuo aplinkinių elementų tik nuo savo dešinės)
+margin-bottom: 40px;        (atsistūmimasnuo aplinkinių elementų tik nuo savo apačios)
+margin-left: 40px;          (atsistūmimasnuo aplinkinių elementų tik nuo savo kairės)
 
+Pagal nutylėjimą dauguma elementų yra atvaizduojami kaip blokai, t.y.
+display: block;
 
 Elementų atvaizdavimo būdas:
 display: inline;                (default'inė reikšmė <span> ir <a> tag'ams)
 display: block;                 (default, ir taikomas daugumai elementų, ir elementai krenta vienas po kitu)
 display: inline-block;          (jei užtenka vietos, elementai krenta į vieną eilę - horizontaliai) jei naudoji tai prie visu elementų!!!
+
 float: left;                    (priverstinis elementų pritraukimas nurodyta kryptimi)
-float: right;
+float: right
 
 Elemento turinio atsistūmimas iki to paties elemento kraštų (vidinis išsipūtimas):
 padding: 25%;                  // visomis kryptimis (aplinkui)
@@ -52,11 +56,6 @@ padding-top: 25%;
 padding-right: 25%;
 padding-bottom: 25%;
 padding-left: 25%;
-
-"Šventa Marija" (elementų statymas į vieną eilę)
-display: inline-block;      (būtina parašyti visada)
-width: 100%;                (nurodyti būtina, bet reikšme turi būti adekvati)
-float: left;                (rašome, jei elementai turi būti vienoje eilėje)
 
 Teksto lygiavimas:
 text-align: left;
