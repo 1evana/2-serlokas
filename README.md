@@ -14,6 +14,11 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850
  - Learn to use Markdown
  - Learn to use .gitignore
 
+ ## Project features
+
+- Github pages
+- Desktop only
+
 
 ## Authors
 
