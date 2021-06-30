@@ -10,11 +10,11 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850
 
 ## Project objectives
 
- - Create simple HTML page from provided design
- - Learn to use Markdown
- - Learn to use .gitignore
+- Create simple HTML page from provided design
+- Learn to use Markdown
+- Learn to use .gitignore
 
- ## Project features
+## Project features
 
 - Github pages
 - Desktop only
